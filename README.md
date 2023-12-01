@@ -14,7 +14,7 @@
   <h2>1. 개발 환경</h2>
 
 - <p><b>OS: </b>Windows (10, 64 Bit)</p>
-- <p><b>DB: </b>H2</p>
+- <p><b>DB: </b>H2 DB</p>
 - <p><b>IDE: </b>IntelliJ</p>
 </div>
 <br>
@@ -27,7 +27,7 @@
 <br>
 
 <div align="left">
-  <h2>3. 디렉터리 구조</h2>
+  <h2>3. 프로젝트 구조</h2>
 
   ```
   *
@@ -43,7 +43,7 @@
 <div align="left">
   <h2>4. 구현 기능</h2>
 
-#### 1) 데이터 등록 (`POST, /api/stats/`)
+#### 1) 데이터 등록 (`POST, /api/stats`)
 - /src/resources 디렉터리에 있는 2020-01-02 ~ 2020-01-05 파일을 등록한다.
 
   ```
